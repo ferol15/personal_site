@@ -1,5 +1,5 @@
 ---
-title: "Research and Teaching"
+title: "Research"
 ---
 
 <style>
@@ -8,15 +8,14 @@ text-align: justify}
 </style>
 
 <br>
-For my dissertation, I use an online survey experiment fielded in Turkey in 2018 to test threat politics' effect upon conservatism. I differentiate between diverse types of death reminders (e.g. death due to cancer and terror attack, and death under complete uncertainty). And I check how the big five personality traits moderate these death reminders' effect on conservatism. 
+For my dissertation, I use an online survey experiment fielded in Turkey in 2018 to test threat politics' effect upon conservatism. I differentiate between diverse types of death reminders (e.g. death due to cancer, to terror attack, and death under complete uncertainty). And I check how the big five personality traits moderate these death reminders' effect on conservatism. 
 
 <br>
 Additionally, I have several working papers on electoral budget cycles, foreign policy behavior, personality traits - political behavior links, and political parties. 
 
-<br> 
-And at Koc University, I have been a teaching assistant for various quantative research methodology courses at undergraduate and graduate levels by leading the lab and problem sessions on SPSS, Stata, and multivariate regression models.  
-
 <br>
+<a href="https://www.dropbox.com/s/1oakroh4i0l0gzw/CV.pdf?dl=0">For my recent resume, please click. </a>
+<!--
 <button class="btn btn-primary" data-toggle="collapse" data-target="#Spectra">To access to my recent resume, please click.</button> 
 <div id="Spectra" class="collapse">    
 <object data="CV.pdf" width="750px" height="750px">
@@ -24,3 +23,4 @@ And at Koc University, I have been a teaching assistant for various quantative r
     </embed>
 </object>
 </div>
+--> 
