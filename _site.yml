@@ -1,0 +1,17 @@
+name: "Fatih Erol"
+output_dir: "."
+navbar:
+  title: "Fatih Erol"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research and Teaching"     ##### the new
+      href: projects.html  ##### stuff
+    - text: "Contact"
+      href: about.html
+    - text: "Personal"
+      href: personal.html
+output:
+  html_document:
+    theme: journal
+    css: style.css

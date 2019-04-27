@@ -1,0 +1,19 @@
+---
+title: "Personal"
+---
+<br>
+
+<style>
+body {
+text-align: justify}
+</style>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<div style= "float:right;position: relative; top: -75px;">
+![](Photo2.png)
+</div>
+
+I am happily married to <a href="https://gsssh.ku.edu.tr/wp-content/uploads/2019/04/Emine-Arı_CV_up10_04_2018-FATIH-EROL.pdf">Emine Arı. </a> Emine is also a Ph.D. candidate in International Relations at Koc University, Department of International Relations in Istanbul, Turkey. If I happen to have sparse time, I enjoy angling and cycling.
+
+
