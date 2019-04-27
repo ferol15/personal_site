@@ -1,6 +1,6 @@
 getwd()
 
-setwd("/Users/fatiheminearierol/Desktop/Website")
+setwd("/Users/fatiheminearierol/personal_site")
 
  
 rmarkdown::render_site()
