@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -319,7 +307,7 @@ text-align: justify}
 </style>
 <p><br> For my dissertation, I have been using an online survey experiment fielded in Turkey in 2018 to test threat politics’ effect upon conservatism. I differentiated between diverse types of death reminders (e.g. death due to cancer, to terror attack, and death under complete uncertainty). And I checked how the big five personality traits moderate these death reminders’ effect on conservatism.</p>
 <p><br> Additionally, I have several working papers on electoral budget cycles, foreign policy behavior, personality traits - political behavior links, and political parties.</p>
-<p><br> And at Koc University, I have been a teaching assistant for various quantative research methodology courses at undergraduate and graduate levels by leading the lab and problem sessions on SPSS, Stata, and multivariate regression models.</p>
+<p><br> And at Koc University, I have been a teaching assistant for various quantitative research methodology courses at undergraduate and graduate levels by leading the lab and problem sessions on SPSS, Stata, and multivariate regression models.</p>
 <p><br> <a href="https://www.dropbox.com/s/1oakroh4i0l0gzw/CV.pdf?dl=0">For my recent resume, please click. </a> <!--
 <button class="btn btn-primary" data-toggle="collapse" data-target="#Spectra">To access to my recent resume, please click.</button> 
 <div id="Spectra" class="collapse">    
@@ -347,6 +335,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
