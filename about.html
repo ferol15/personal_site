@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -313,10 +301,9 @@ $(document).ready(function () {
 </div>
 
 
-<p><br> Fatih Erol, Ph.D. Candidate (A.B.D.) in Political Science <br> Graduate Research and Teaching Assistant at Koc University (Sariyer, Istanbul, Turkey) <br></p>
-<p><u><b>Office</b></u>: Koc University, College of Administrative Sciences and Economics (CASE), Office 273<br></p>
-<p><u><b>Office Phone Number</b></u>: +90-212-338-1561<br></p>
-<p><u><b>E-mail</b></u>: <a href="mailto:ferol15@ku.edu.tr">ferol15@ku.edu.tr</a><br></p>
+<p><br> Fatih Erol, Ph.D. Candidate (A.B.D.) in Political Science <br> Graduate Research and Teaching Assistant at Koc University (Sariyer, Istanbul, Turkey) &amp; <br> Predoctoral Visiting Student Researcher at University of Illinois at Urbana-Champaign (Urbana, Illinois, United States) <br></p>
+<p><u><b>Office</b></u>: David Kinley Hall 404<br></p>
+<p><u><b>E-mail</b></u>: <a href="mailto:ferol15@ku.edu.tr" class="email">ferol15@ku.edu.tr</a><br></p>
 <p><a href="https://www.researchgate.net/profile/Fatih_Erol4"><u><b>Research Gate Profile</b></u></a></p>
 
 
@@ -336,6 +323,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
