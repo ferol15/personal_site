@@ -18,7 +18,7 @@ text-align: justify}
 </style>
 
 <br>
-<a href="https://www.dropbox.com/s/1oakroh4i0l0gzw/CV.pdf?dl=0">For my recent resume, please click here. </a>
+<a href="https://www.dropbox.com/s/f0bvpugdyl4e7yz/CV.pdf?dl=0">For my recent resume, please click here. </a>
 
 <br>
 My research expands on core theories of political behavior and political psychology by integrating insights drawn from psychophysiological research. My first stream of research examines the role of threats (reminders of death) in political ideology. I ask how and why health (a coronavirus disease), morality (a drunk driving crash), and security (a terrorist attack) threats to survival have potent effects on people’s affinity for conservative self-identification and policy positions. To answer my questions and assess my expectations, I have fielded online survey experiments in Turkey (2018, 2020) and the United States (2020). These studies use qualitative and quantitative research designs (cognitive interviews for the survey instruments’ comprehension in English and Turkish, and online survey experiments), and diverse samples (student and non-student [online] samples in Turkey and the U.S.). Besides, I have a research proposal accepted by the Mexican research center Centro de Investigación y Docencia Económicas (CIDE) (Center for Research and Teaching in Economics), which will field my threats-related experimental design on the student sample visiting their labs in Mexico next fall. 
