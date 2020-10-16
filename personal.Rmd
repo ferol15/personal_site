@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo2.png)
 </div>
 
-I am happily married to <a href="https://gsssh.ku.edu.tr/wp-content/uploads/2020/01/Emine-Arı_CV_.pdf">Emine Arı. </a> Emine is a Ph.D. candidate (ABD) in International Relations at Koc University, Department of International Relations and Political Science in Istanbul, Turkey. Emine's research covers states of emergencies, domestic and international conflicts, and electoral behavior.<br> 
+I am happily married to <a href="https://gsssh.ku.edu.tr/wp-content/uploads/2020/01/Emine-Arı_CV_.pdf">Emine Arı. </a> Emine is a Ph.D. candidate (ABD) in International Relations at Koc University, Department of International Relations and Political Science in Istanbul, Turkey. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior.<br> 
 
 If I happen to have sparse time, I enjoy angling and cycling.
 
