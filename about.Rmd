@@ -13,9 +13,13 @@ title: "Contact Information:"
 
 
 <br>
-Fatih Erol, Ph.D. in Political Science <br>
-Koc University (Sariyer, Istanbul, Turkey) <br>
+<p style="color:black">Fatih Erol, Ph.D. in Political Science<br></p>
+<p style="color:black">Adjunct Lecturer at Istanbul Bilgi University (Istanbul, Turkey) <br></p>
 
-<u><b>E-mail</b></u>: ferol15@ku.edu.tr<br>
+<p style="color:black"><u><b>E-mail</b></u>: ferol15@ku.edu.tr<br></p>
 
-<a href="https://www.researchgate.net/profile/Fatih_Erol4"><u><b>Research Gate Profile</b></u></a>
+<a href="https://scholar.google.com.tr/citations?user=B4_j6yYAAAAJ&hl=tr"><u><b>Google Scholar</b></u></a><br>
+<a href="https://orcid.org/0000-0002-0123-0321"><u><b>ORCID</b></u></a><br>
+<a href="https://github.com/ferol15"><u><b>GitHub</b></u></a><br>
+<a href="https://twitter.com/fatiherol_pols"><u><b>Twitter</b></u></a><br>
+
