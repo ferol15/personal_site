@@ -14,7 +14,6 @@ title: "Contact Information:"
 
 <br>
 <p style="color:black">Fatih Erol <br></p>
-<p style="color:black"><u><b>Postal Address</b></u>: Koç University, CASE 176, Rumelifeneri Yolu, 34450, Sariyer, Istanbul, Turkey <br></p>
 
 <p style="color:black"><u><b>E-mail</b></u>: ferol15@ku.edu.tr<br></p>
 
@@ -23,4 +22,5 @@ title: "Contact Information:"
 <a href="https://www.researchgate.net/profile/Fatih-Erol-3"><u><b>ResearchGate</b></u></a><br>
 <a href="https://github.com/ferol15"><u><b>GitHub</b></u></a><br>
 <a href="https://twitter.com/fatiherol_pols"><u><b>Twitter</b></u></a><br>
+<a href="https://www.linkedin.com/in/fatih-erol-875705225/"><u><b>LinkedIn</b></u></a><br>
 
