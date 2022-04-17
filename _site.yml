@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research and Teaching"     ##### the new
+    - text: "Academic Research"     ##### the new
       href: projects.html  ##### stuff
     - text: "Contact"
       href: about.html
