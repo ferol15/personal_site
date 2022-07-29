@@ -25,23 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo.png)
 </div>
 
-<p style="color:black"><p style="color:black">I received my Ph.D. from Koç University (in Istanbul, Turkey) in November 2020. I held a predoctoral fellowship (2019-2020) at the University of Illinois at Urbana-Champaign in the Department of Political Science. Survey research, experimental analysis, and text-as-data methods are my main areas of expertise. I have practical experience in various advanced quantitative research methods, such as categorical data analysis, multilevel models, and structural equation modeling (SEM). I am proficient in both Stata and R and prefer the latter for open science purposes.</p>
-
-<br>
-
-<p style="color:black"><p style="color:black">I am, currently, an Insights Executive in an international consumer research company based in Turkey, <a href="https://www.twentify.com">Twentify</a>.</p>
-
-<br>
-
-<p style="color:black">Previously, I was a postdoctoral researcher at Koç University, working on the national election study project “Issue Voting and Polarization in Turkey,” which is funded by the Scientific and Technological Research Council of Turkey (TÜBİTAK). During my brief stay, I assisted my research team in developing an online Qualtrics-based Q-method for issue polarization, providing data analysis syntax, and systematizing hand-coded data collection procedures for Q items using publicly available street interviews.</p> 
-
-<br>
-
-<p style="color:black">Prior to that, as a doctoral graduate student at Koç University, I gained experience in several national and cross-national face-to-face survey projects for the Comparative Study of Electoral Systems (CSES) Modules IV to V, International Social Survey Programme (ISSP) 2014 Citizenship II Module, and TÜBİTAK (in the project titled "Populist Attitudes and Values Research in Turkey"). In addition to these face-to-face surveys, I contributed to the Qualtrics questionnaire design and scaling and Facebook and Instagram sampling of the Turkish Voting Advice Application project oypusulasi.org for March 31, 2019, Local Elections in Istanbul, Turkey. I also have international experience in designing and running experiments and surveys. For my doctoral and predoctoral research, I fielded Qualtrics-based survey experiments comparatively in Turkey (2018, 2020, nationally non-representative Facebook and Instagram samples) and the U.S. (2020, nationally representative Prolific sample).</p>
-
-<br> 
-
-<p style="color:black"> Despite the fact that I have made the transition from academia to industry in order to live a more sustainable life, I am committed to and enjoy delivering academic research outputs with the goal of improving people's standard of living on all levels. My research interests are summarized <a href="http://fatiherolphd.com/projects.html">here</a>, my academic resume is available <a href="https://www.dropbox.com/s/f0bvpugdyl4e7yz/CV.pdf?dl=0">here</a>, and my non-academic profile is accessible <a href="https://www.linkedin.com/in/fatih-erol-875705225/">here</a>. </p>
+<p style="color:black"><p style="color:black">I received my Ph.D. from Koç University (in Istanbul, Turkey) in November 2020. I held a predoctoral fellowship (2019-2020) at the University of Illinois at Urbana-Champaign in the Department of Political Science. Survey research, experimental analysis, and text-as-data methods are my main areas of expertise. I have practical experiences in various advanced quantitative research methods, such as categorical data analysis, multilevel models, and structural equation modeling (SEM). I am proficient in both Stata and R and prefer the latter for open science purposes.</p>
 
 
 
