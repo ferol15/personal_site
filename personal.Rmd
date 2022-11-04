@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo2.png)
 </div>
 
-<p style="color:black"> I am happily married to Emine Arı. Emine is a Ph.D. candidate (ABD) in International Relations at Koc University, Department of International Relations and Political Science (Istanbul, Turkey). Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's resume <a href="https://gsssh.ku.edu.tr/wp-content/uploads/2020/01/Emine-Arı_CV_.pdf">here</a>).<br></p>  
+<p style="color:black"> I am happily married to Emine Arı. Emine is a Postdoctoral Researcher in the Department of International Relations at Bilkent University. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's personal site <a href="emineari.com">here</a>).<br></p>  
 
 <p style="color:black">If I happen to have sparse time, I enjoy angling and cycling.</p>
 
