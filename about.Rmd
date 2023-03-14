@@ -19,7 +19,7 @@ title: "Contact Information:"
 
 <p style="color:black"><u><b>E-mail</b></u>: fatih.erol@yeditepe.edu.tr<br></p>
 
-<a href="https://scholar.google.com.tr/citations?user=B4_j6yYAAAAJ&hl=en"><u><b>Google Scholar</b></u></a><br>
+<a href="https://scholar.google.com/citations?user=slPu75UAAAAJ&hl=en&oi=ao"><u><b>Google Scholar</b></u></a><br>
 <a href="https://orcid.org/0000-0002-0123-0321"><u><b>ORCID</b></u></a><br>
 <a href="https://www.researchgate.net/profile/Fatih-Erol-3"><u><b>ResearchGate</b></u></a><br>
 <a href="https://github.com/ferol15"><u><b>GitHub</b></u></a><br>
