@@ -13,7 +13,7 @@
 
 <title>Welcome to my page!</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -294,16 +291,19 @@ text-align: justify}
 </div>
 <p style="color:black">
 <p style="color:black">
-I am an Assistant Professor in the Department of Political Science and
-International Relations at Yeditepe University. I received my Ph.D. from
-Koç University in 2020. I held a predoctoral fellowship (2019-2020) at
-the University of Illinois at Urbana-Champaign in the Department of
-Political Science. Political behavior and psychology, survey research,
-experimental analysis, and text-as-data methods are my main areas of
-expertise. I have practical experiences in various advanced quantitative
-research methods, such as categorical data analysis, multilevel models,
-and structural equation modeling (SEM). I am proficient in both Stata
-and R and prefer the latter for open science purposes.
+I am a Researcher Scientist at the Arizona Policy Lab in the School of
+Government and Public Policy at the University of Arizona. I am also an
+(on-leave) Assistant Professor in the Department of Political Science
+and International Relations at Yeditepe University. I received my
+Ph.D. from Koç University in 2020. I held a predoctoral fellowship
+(2019-2020) at the University of Illinois at Urbana-Champaign in the
+Department of Political Science. Political behavior and psychology,
+survey research, experimental analysis, and text-as-data methods are my
+main areas of expertise. I have practical experiences in various
+advanced quantitative research methods, such as categorical data
+analysis, multilevel models, and structural equation modeling (SEM). I
+am proficient in both Stata and R and prefer the latter for open science
+purposes.
 </p>
 
 
