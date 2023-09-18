@@ -15,9 +15,9 @@ title: "Contact Information:"
 <br>
 <p style="color:black">Fatih Erol <br></p>
 
-<p style="color:black"><u><b>Address</b></u>: Yeditepe University, Department of Political Science and International Relations, IIBF 404, 34755, Atasehir, Istanbul, Turkey<br></p>
+<p style="color:black"><u><b>Address</b></u>: 1145 E South Campus Dr #115A, Arizona Policy Lab, School of Government & Public Policy, University of Arizona, Tucson, AZ 85719, US<br></p>
 
-<p style="color:black"><u><b>E-mail</b></u>: fatih.erol@yeditepe.edu.tr<br></p>
+<p style="color:black"><u><b>E-mail</b></u>: fatih.erol@yeditepe.edu.tr / ferol@arizona.edu <br></p>
 
 <a href="https://scholar.google.com/citations?user=slPu75UAAAAJ&hl=en&oi=ao"><u><b>Google Scholar</b></u></a><br>
 <a href="https://orcid.org/0000-0002-0123-0321"><u><b>ORCID</b></u></a><br>
