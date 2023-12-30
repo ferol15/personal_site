@@ -1,5 +1,5 @@
 ---
-title: "Personal"
+title: " "
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166011945-1"></script>
@@ -21,11 +21,11 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<div style= "float:right;position: relative; top: -75px;">
+<div style= "float:right;position: relative; top: -50px;">
 ![](Photo2.png)
 </div>
 
-<p style="color:black"> I am happily married to Emine Arı. Emine is a Postdoctoral Researcher in the Department of International Relations at Bilkent University. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's personal site <a href="http://emineari.com">here</a>).<br></p>  
+<p style="color:black"> I am happily married to Emine Arı. Emine is an incoming Research Associate and Adjunct Instructor (Spring 2024) in the School of Government and Public Policy at the University of Arizona. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's personal site <a href="http://emineari.com">here</a>).<br></p>  
 
 <p style="color:black">If I happen to have sparse time, I enjoy angling and cycling.</p>
 

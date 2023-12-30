@@ -1,5 +1,5 @@
 ---
-title: "Contact Information:"
+title: " "
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166011945-1"></script>
