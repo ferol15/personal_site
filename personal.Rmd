@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo2.png)
 </div>
 
-<p style="color:black"> I am happily married to Emine Arı. Emine is an incoming Research Associate and Adjunct Instructor (Spring 2024) in the School of Government and Public Policy at the University of Arizona. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's personal site <a href="http://emineari.com">here</a>).<br></p>  
+<p style="color:black"> I am happily married to Emine Arı. Emine is a Research Associate and Adjunct Instructor in the School of Government and Public Policy at the University of Arizona. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior (see Emine's personal site <a href="http://emineari.com">here</a>).<br></p>  
 
 <p style="color:black">If I happen to have sparse time, I enjoy angling and cycling.</p>
 
